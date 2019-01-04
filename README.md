@@ -1,0 +1,2 @@
+# ego
+new project
